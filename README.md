@@ -33,4 +33,9 @@ To practice filtering and analyzing network traffic Wireshark.
 
 <img width="1401" height="875" alt="Str" src="https://github.com/user-attachments/assets/6c3af767-e577-4731-ab8e-d8fb2dbddf8d" />
 
+### Skills learned:
+
+- Packet filtering
+- Analyzing network
+
 
