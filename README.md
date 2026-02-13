@@ -1,2 +1,5 @@
 # Wireshark-Packet-Filtering
-A simple demonstration of filtering and analyzing network packets
+
+### Project objective:
+
+To practice filtering and analyzing network traffic in a home lab using Wireshark.
